@@ -1,6 +1,6 @@
 # TenantWise - Multi-Tenant Material Inventory API
 
-A multi-tenant backend implementation designed to strictly isolate data between different companies (tenants) using a shared database approach. This system manages materials, stocks, and transactions while enforcing plan limits (Free vs Pro).
+A multi-tenant backend implementation designed to strictly isolate data between different companies (tenants) using a shared database approach. This system manages materials, stocks, and transactions while enforcing plan limits (Free vs Pro).   
 
 ## Approach
 
