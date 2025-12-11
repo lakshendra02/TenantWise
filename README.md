@@ -11,7 +11,6 @@ I implemented a **Shared Database, Shared Schema** architecture where all tenant
 - **Runtime:** Node.js
 - **Framework:** Express.js
 - **Database:** PostgreSQL
-- **Architecture:** Layered (Controllers, Models, Services)
 
 ---
 
